@@ -1,1 +1,3 @@
 This repository contains firmware version 1.36 for the CK62 keyboard. It enables the use of fn key to access layout keys such as arrows, home/end/del...
+
+To install it from linux, use `sudo wine MJ*.exe` while keyboard is connected to allow raw access to the usb device.
